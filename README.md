@@ -10,7 +10,7 @@ I started to learn Machine Learning model to get most out of it. I came to know 
 │   ├── css
 ├── template
 │   ├── home.html
-├── Procfile
+├── .gitignore
 ├── README.md
 ├── app.py
 ├── flight_price.ipynb
